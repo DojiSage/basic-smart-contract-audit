@@ -1,4 +1,4 @@
-# PasswordStore
+# PasswordStore Audit
 
 <br/>
 <p align="center">
